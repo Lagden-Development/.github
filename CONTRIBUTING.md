@@ -21,7 +21,8 @@ We welcome new ideas! If you have a feature request, please open an issue with a
 1. Fork the repository and create your branch from `main`.
 2. Ensure your code adheres to the project's coding standards.
 3. Update the documentation as necessary.
-4. Submit your pull request.
+4. Use [gitmoji](https://gitmoji.dev) for your commit messages to keep them consistent and expressive.
+5. Submit your pull request.
 
 ## Coding Standards
 
