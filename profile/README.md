@@ -16,6 +16,10 @@ BetterQR is the best QR managing service, providing a simple and efficient way t
 ### [Flask Obfuscate](https://github.com/Lagden-Development/flask-obfuscate)
 A Flask extension to obfuscate various responses, enhancing security and privacy in your applications.
 
+## Code of Conduct
+
+We are committed to providing a welcoming and inclusive environment for all our contributors. Please read our [Code of Conduct](https://github.com/Lagden-Development/.github/blob/main/CODE_OF_CONDUCT.md) to understand the standards we uphold in our community.
+
 ## Get Involved
 
 We welcome contributions from developers of all skill levels. If you're interested in contributing, check out our [contribution guidelines](https://github.com/Lagden-Development/.github/blob/main/CONTRIBUTING.md).
