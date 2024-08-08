@@ -8,13 +8,16 @@ Welcome to Lagden Development! We are a small but passionate development group f
 Rickbot is an advanced framework for creating complex (or simple) Discord bots quickly and efficiently using `discord.py`.
 
 ### [Discord Timestamps](https://github.com/Lagden-Development/discord-timestamps)
-Forked from `bsoyka/discord-timestamps`, this project provides properly-formatted dynamic timestamps for Discord messages.
+A fork of `bsoyka/discord-timestamps`, this project provides properly-formatted dynamic timestamps for Discord messages. We've fixed and improved the original code for better performance and reliability; the only reason it remains on our profile is due to our pull request not being merged yet.
 
 ### [BetterQR](https://github.com/Lagden-Development/betterqr)
 BetterQR is the best QR managing service, providing a simple and efficient way to generate and manage QR codes.
 
 ### [Flask Obfuscate](https://github.com/Lagden-Development/flask-obfuscate)
 A Flask extension to obfuscate various responses, enhancing security and privacy in your applications.
+
+### [lagden.dev](https://github.com/Lagden-Development/lagden.dev)
+Our official website repository. Here you can find the source code for our website, which showcases our projects and provides information about our team.
 
 ## Code of Conduct
 
