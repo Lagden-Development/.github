@@ -2,9 +2,6 @@
 Welcome to Lagden Development! We are a small but passionate development group focused on creating and contributing to open-source projects. Our goal is to build innovative, efficient, and user-friendly software that benefits the community.
 
 ## Our Projects
-### [BetterQR](https://github.com/Lagden-Development/betterqr)
-BetterQR is the best QR managing service, providing a simple and efficient way to generate and manage QR codes.
-
 ### [Rickbot](https://github.com/Lagden-Development/rickbot)
 Rickbot is an advanced framework for creating complex (or simple) Discord bots quickly and efficiently using `discord.py`.
 
